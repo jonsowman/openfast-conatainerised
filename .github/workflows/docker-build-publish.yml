@@ -23,6 +23,5 @@ jobs:
         with:
           context: .
           file: ./Dockerfile
+          tags: jonsowman/openfast:v2.4.0
           push: true
-          tags: |
-            jonsowman/openfast:v2.4.0
