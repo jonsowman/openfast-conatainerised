@@ -1,1 +1,1 @@
-# openfast-conatainerised
+# openfast-containerised
